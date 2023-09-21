@@ -24,3 +24,8 @@ npm start
 # OR using Yarn
 yarn start
 ```
+## Result
+
+<img src="https://github.com/zahoruiko/React-Native-App-Localization/blob/main/promoImages/Screen-1.png" width="240" />
+<img src="https://github.com/zahoruiko/React-Native-App-Localization/blob/main/promoImages/Screen-2.png" width="240" />
+<img src="https://github.com/zahoruiko/React-Native-App-Localization/blob/main/promoImages/Screen-3.png" width="240" />
